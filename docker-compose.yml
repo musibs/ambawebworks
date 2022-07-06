@@ -1,7 +1,7 @@
 version: "3.8"
 services:
 
-#Nginx Service
+#Nginx Service Definition
   nginx:
     container_name: "nginx-${APP_NAME}"
     build: .docker/nginx
