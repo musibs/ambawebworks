@@ -1,2 +1,1 @@
-# PHP Application 
-# GitHub App With PHP
+# A PHP application with Docker
